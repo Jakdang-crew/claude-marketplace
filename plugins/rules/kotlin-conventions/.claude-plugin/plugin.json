@@ -1,0 +1,12 @@
+{
+  "name": "kotlin-conventions",
+  "description": "Kotlin coding conventions for Claude Code — ktlint style, naming, immutability, nullability rules",
+  "version": "1.0.0",
+  "category": "rules",
+  "tags": ["kotlin", "conventions", "style"],
+  "author": {
+    "name": "Jakdang-crew",
+    "url": "https://github.com/Jakdang-crew"
+  },
+  "license": "MIT"
+}
