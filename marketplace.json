@@ -8,6 +8,11 @@
       "name": "kotlin-conventions",
       "category": "rules",
       "path": "plugins/rules/kotlin-conventions"
+    },
+    {
+      "name": "ask-before-build",
+      "category": "rules",
+      "path": "plugins/rules/ask-before-build"
     }
   ]
 }

@@ -1,0 +1,12 @@
+{
+  "name": "ask-before-build",
+  "description": "Prevent speculative implementation — ask user first when uncertain about design decisions",
+  "version": "1.0.0",
+  "category": "rules",
+  "tags": ["workflow", "communication", "guard"],
+  "author": {
+    "name": "Jakdang-crew",
+    "url": "https://github.com/Jakdang-crew"
+  },
+  "license": "MIT"
+}
